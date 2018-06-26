@@ -8,4 +8,4 @@
 //instructions: given an array with the values [1, 2, 3], create a new array that stores all of the values +1. This requires the use of the .map method. After you have created the new array, log out the values of the new array using .forEach
 
 //# problem 4
-//instructions: given an array with the values [1, 2, 3], use the .reduce method to store the result of adding all the values together. 
+//instructions: given an array with the values [1, 2, 3], use the .reduce method to add all the values together. After you have the new value stored, log it out.

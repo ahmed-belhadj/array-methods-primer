@@ -1,15 +1,15 @@
-// # general method syntax:
+// # general syntax for all array methods covered in primer
 arrayName.methodName((parameters) => {
     code to execute
   })
 
 // # forEach
-//with a normal function
+//normal function syntax
 arrayName.forEach(function(item, index){
     code to execute
 })
 
-//with an arrow function
+//arrow function syntax
 arrayName.forEach((item, index) => {code to execute})
 
 // # map
@@ -21,3 +21,11 @@ arrayName.map(function(item){
 //arrow function
 arrayName.map((item) => code to execute);
 
+// # reduce
+//normal function syntax
+arrayName.reduce(function(total, currentElement){
+    return code to execute
+})
+
+//arrow function syntax
+arrayName.reduce((total, currentElement) => code to execute)

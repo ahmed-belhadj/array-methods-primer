@@ -1,2 +1,2 @@
-# array-methods-primer
-A primer I wrote on array methods while working as a PM at The Lambda School.
+# Array Methods Primer
+A primer on common array methods by Charlie Sparks.
